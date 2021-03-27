@@ -1,10 +1,11 @@
 <h1 align="center"> Hola <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> I'm Manu!</h1>
 <!-- ### Hi there 👋, I'm Manu  -->
+
 ### Developer and Competetive Coder from VIT Vellore
-- 🔭 I’m currently working and learning as a Backend Developer Intern
-- 🌱 Open for Collaborations in Machine Learning, Frontend and Backend Development.
-- 👯 Willing to contribute in Opensource development Projects
-- 📫 Visit my [Portfolio](https://manupoonia.me)
+### - 🔭 I’m currently working and learning as a Backend Developer Intern
+### - 🌱 Open for Collaborations in Machine Learning, Frontend and Backend Development.
+### - 👯 Willing to contribute in Opensource development Projects
+### - 📫 Visit my [Portfolio](https://manupoonia.me)
 
 ### 🤝 Connect with Me :
 
