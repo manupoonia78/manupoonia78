@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Manu 
-Developer and Competetive Coder from VIT Vellore
-https://camo.githubusercontent.com/148e7e6c954a413f6058f4b612a40e65b0693cd319f0236399ec479fca959c60/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3565353162336230333337333039643637326566643934632f3565353163633539333364333638666562633335313839375f666f6f7465722d696d672e737667
+### Developer and Competetive Coder from VIT Vellore
+<div align="center">
+  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
+</div>
 <!--
 **manupoonia78/manupoonia78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
