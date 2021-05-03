@@ -1,4 +1,4 @@
-<h1 align="center"> Hola <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> I'm Manu!</h1>
+<h1 align="center"> Hi ! <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> I'm Manu!</h1>
 <!-- ### Hi there 👋, I'm Manu  -->
 
 ### Developer and Competetive Coder from VIT Vellore
