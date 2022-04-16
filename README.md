@@ -1,8 +1,20 @@
 <h1 align="center"> Hi ! <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> I'm Manu!</h1>
 <!-- ### Hi there 👋, I'm Manu  -->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mosesesan)](https://github.com/mosesesan/github-readme-stats)
+### 📑 My Github Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupoonia78&theme=radical)](https://github.com/mosesesan/github-readme-stats)
+<p align="center">
+ <img height="160" src="https://github-readme-stats.vercel.app/api?username=manupoonia78&show_icons=true&theme=radical&count_private=true&hide=issues" />
+ <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupoonia78&theme=radical&layout=compact&hide=html,java,ejs" />
+ <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=manupoonia78&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SparshJain2000&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+</p>
+
+<!--  <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SparshJain2000&show_icons=true&theme=radical&count_private=true&hide=issues" />
+</p> -->
+
+[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=manupoonia78&theme=rogue)](https://github.com/manupoonia78/github-readme-activity-graph)
+
 
 ### Developer and Competetive Coder from VIT Vellore
 ### - 🔭 I’m currently working and learning as a Backend Developer
