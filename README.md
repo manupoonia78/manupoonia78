@@ -1,5 +1,8 @@
 <h1 align="center"> Hi ! <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> I'm Manu!</h1>
 <!-- ### Hi there 👋, I'm Manu  -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manupoonia78)](https://github.com/mosesesan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupoonia78&theme=radical)](https://github.com/mosesesan/github-readme-stats)
 
 ### Developer and Competetive Coder from VIT Vellore
 ### - 🔭 I’m currently working and learning as a Backend Developer
