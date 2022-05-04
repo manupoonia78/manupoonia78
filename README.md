@@ -7,7 +7,7 @@
 ### - 🔭 I’m currently working and learning as a Backend Developer
 ### - 🌱 Open for Collaborations in Machine Learning, Frontend and Backend Development.
 ### - 👯 Willing to contribute in Opensource development Projects
-### - 📫 Visit my [Portfolio](https://manupoonia.me)
+### - 📫 Visit my [Portfolio](https://manupoonia78.github.io)
 
 ### 🤝 Connect with Me :
 
