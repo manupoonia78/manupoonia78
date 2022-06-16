@@ -17,6 +17,7 @@
 <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=manupoonia78.manupoonia78" /> 
 
 <div align="center">
+  <img src="https://image.myanimelist.net/ui/s7AsfuwC-rKICanU6ozihFRqDZJZ-MVXyRLOze4wGEg">
   <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
 </div>
 
