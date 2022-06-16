@@ -33,7 +33,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SparshJain2000&show_icons=true&theme=radical&count_private=true&hide=issues" />
 </p> -->
 
-[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manupoonia78&theme=rogue)](https://github.com/manupoonia78/github-readme-activity-graph)
+<!--[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=manupoonia78&theme=rogue)](https://github.com/manupoonia78/github-readme-activity-graph) -->
 <!--
 **manupoonia78/manupoonia78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
