@@ -3,7 +3,7 @@
 
 
 
-### Developer and Competetive Coder from VIT Vellore
+### Developer and Competetive Coder 
 ### - 🔭 I’m currently working and learning as a Backend Developer
 ### - 🌱 Open for Collaborations in Machine Learning, Frontend and Backend Development.
 ### - 👯 Willing to contribute in Opensource development Projects
