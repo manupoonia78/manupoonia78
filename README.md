@@ -3,9 +3,9 @@
 
 
 
-### Developer and Competetive Coder 
-### - 🔭 Currently working and learning as a CorePoint and FTP Interface Developer
-### - 🌱 Open for Collaborations in Machine Learning, Frontend and Backend Development.
+### Senior Software Engineer and Product Lead 
+### - 🔭 Currently Leading Interoperability with real-time data facilitation
+### - 🌱 Love Building stufff - Open for Collaborations 
 ### - 👯 Willing to contribute in Opensource development Projects
 
 
