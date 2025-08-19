@@ -3,7 +3,7 @@
 
 
 
-### Senior Software Engineer and Product Lead 
+### Senior Software Engineer and Interoperability Lead 
 ### - 🔭 Currently Leading Interoperability with real-time data facilitation
 ### - 🌱 Love Building stufff - Open for Collaborations 
 ### - 👯 Willing to contribute in Opensource development Projects
